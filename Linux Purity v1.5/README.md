@@ -30,4 +30,5 @@ Also the tux folder has no malware. It is just a page of the word 'tux' repeated
 Copyright: This project has no copyrights. You are free to reproduce and use as you want. Just please credit me for the original!
 
 Made by StarshipTPS
+
 Written in Atom
